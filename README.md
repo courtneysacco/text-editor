@@ -42,3 +42,8 @@ THEN I should have proper build scripts for a webpack application
 Clone the repo, run "npm install" to install dependencies, then start the server.
 
 ## Screenshots
+![](assets/images/jate.png)
+
+## Links
+<a href= "https://hidden-headland-95991.herokuapp.com/"
+target="_blank">Heroku App</a>
